@@ -1,3 +1,3 @@
 # 3d-dimers
 
-Simulations of slices of 3D dimer tilings generated with Mathematica code. 
+Slices of simulations of 3D dimer tilings generated with Mathematica code. 
