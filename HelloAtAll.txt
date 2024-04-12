@@ -1,0 +1,13 @@
+Dear CCW,
+
+I hope this txt file finds you well.
+I decided to FORK your github, and make a "pull request" to this repository because I enjoyed reading your thesis and I would like to collaborate on these documents.
+
+I have many photos and gifs which I can add to your collection of simulation gifs.
+Since this is linked to your thesis, if you accept this pull request, we will officially be coauthors. To start, I have included some important examples of 3D.
+
+In any document which we co-create in this github, in the unlikely event that you should choose to accept this pull request, I promise to use proper terminology for the large deviation principle, and to make sure that the space between et. al is very small and not as large as a normal space is usually typeset by the LaTeX Typesetting software, should we ever use this repository to collaborate on deep and beautiful mathematics.
+
+Best wishes,
+Your Best Friend,
+COMF
